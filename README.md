@@ -6,3 +6,13 @@ My tech blog
 ```bash
 docker-compose up
 ```
+
+## Get screenshot
+
+```bash
+npm i
+```
+
+```bash
+node run.js
+```
