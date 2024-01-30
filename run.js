@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer');
-const url = 'https://ssatocc.github.io/';
+const url = 'https://ssatocc.github.io/blog/';
 
 (async () => {
     const browser = await puppeteer.launch({ headless: 'new' });
