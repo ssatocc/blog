@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    ports:
+      - 4000:4000
+    environment:
+      - PAGES_REPO_NWO=ssatocc/blog
+    volumes:
+      - ./docs:/srv/jekyll
+    command: jekyll serve --trace
