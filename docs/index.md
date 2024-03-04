@@ -1,4 +1,4 @@
-[TOP](/blog)
+[TOP](/blog/)
 
 ## 2024
 
